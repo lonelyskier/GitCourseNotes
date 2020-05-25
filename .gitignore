@@ -15,7 +15,9 @@
 *.idea
 *.iml
 
-# Generated files
+
+
+# Generated filesNEW
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
